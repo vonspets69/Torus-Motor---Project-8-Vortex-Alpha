@@ -1,5 +1,7 @@
 Project 8-Vortex: Alpha-V2 Singularity Engine
+
 Experimental concept of a time and space bending toroidal motor for multiple uses.
+
 Overview
 Project 8-Vortex is a theoretical and experimental research framework exploring high-frequency electromagnetic torque within toroidal geometry. The project unifies ancient geometric principles (Ankh-based topology), Hermetic laws, and modern vortex mathematics (3-6-9) into a single functional architecture.
 
